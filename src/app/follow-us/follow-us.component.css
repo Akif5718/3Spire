@@ -1,0 +1,14 @@
+.followUs{
+    background: #ffffff;
+    padding: 50px 0;
+    height: auto;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+.social-icon img{
+    width: 60px;
+    transition: 0.5;
+}
+.social-icon a:hover img{
+    transform: translateY(-10px);
+}
